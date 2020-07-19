@@ -9,8 +9,8 @@
 	$config['addContentLengthHeader'] = false;
 
 	$config['db']['host']   = 'localhost';
-	$config['db']['user']   = 'root';
-	$config['db']['pass']   = 'root';
+	$config['db']['user']   = '***************';
+	$config['db']['pass']   = '***************';
 	$config['db']['dbname'] = 'wifi_router';
 	
 	$app = new \Slim\App([
